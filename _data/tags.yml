@@ -2,6 +2,7 @@
 # If you are using the createtag script, don't leave a blank line at the end of this file.
 # In other words, the last line must be the last tag in the allowed-tags list.
 allowed-tags:
+  - about
   - getting_started
   - content_types
   - navigation
@@ -14,4 +15,4 @@ allowed-tags:
   - troubleshooting
   - mobile
 
-# Copyright 2021 Google LLC
+# Copyright 2022 misslt.com
